@@ -32,8 +32,8 @@ Excel Powerbi
 
 ## 🔗 Connect with Me
 
-- [LinkedIn](#)(https://www.linkedin.com/in/narendra-kavhat-9a5246342/)
-- [GitHub](https://github.com/Narendra7057) 
+- [LinkedIn](#) (https://www.linkedin.com/in/narendra-kavhat-9a5246342/)
+- [GitHub] (https://github.com/Narendra7057) 
 - 📧 Email: narendrakavhat5760@gmail.com
 
 ---
