@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi, I'm Narendra Rajendra Kavhat 👋
 
-<!--
-**Narendra7057/Narendra7057** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 *Computer Engineering Student* | 🧠 *Curious Learner* | 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 🏫 Currently pursuing B.Tech in Computer science & Engineering in (cyber Security and Internet Of things Including Blockchain Technology)
+- 💡 Passionate about C++, Python,Computer Networking , DSA, Data Visualization , problem-solving, and CyberSecurity
+-  
+- 📚 *Always learning:* CyberSecurity, DSA, Cloud Computing
+
+---
+
+## 💻 Tech Stack
+
+*Languages:*  
+C Python C++ 
+
+*Frontend:*  
+HTML5 CSS3 Javascript 
+
+*DataVisulization*  
+Excel Powerbi 
+
+---
+
+## 📌 Featured Projects
+
+
+---
+
+## 🔗 Connect with Me
+
+- [LinkedIn](#)(https://www.linkedin.com/in/narendra-kavhat-9a5246342/)
+- [GitHub](https://github.com/Narendra7057) 
+- 📧 Email: narendrakavhat5760@gmail.com
+
+---
+
+
+Thanks for visiting my GitHub profile! Let’s build something impactful together 🚀
